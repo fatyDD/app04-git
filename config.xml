@@ -38,7 +38,6 @@ Fatima Martinez Diaz
  <!-- <plugin name="cordova-plugin-geolocation" source="npm"/>-->
  
  <!--Colocar icono app-->
- 
 <icon src="res/android/mdpi.png" />
  
  </widget>
